@@ -1,0 +1,8 @@
+.e-header-row>.e-resource-cells{
+    text-align: center !important;
+    font-size: 18px !important;
+    font-weight: 800 !important;
+}
+#js-licensing{
+    display: none !important;
+}

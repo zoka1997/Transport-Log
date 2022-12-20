@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+ font-family: 'Roboto', sans-serif;
+ background: #fff; /* fallback for old browsers */
+}
+* {
+ margin: 0;
+ padding: 0;
+}
+i {
+ margin-right: 10px;
+}
+.navbar-logo {
+ padding: 15px;
+ color: #fff;
+ pointer-events: none;
+}
+
+.navbar {
+ background-color: black;
+}
+
+.nav-item .nav-link {
+ color: #fff;
+ margin-left: 10px;
+}
+
+.nav-item .nav-link:active {
+color: red !important;
+}
+
+.navbar-nav .active {
+ color: black !important;
+ background-color: white;
+ border-radius: 10px;
+ transition: 0.5s all;
+}
+
+.navbar-nav ul li a:not(.active):before {
+ content: "";
+ color: black;
+ border-radius: 10px;
+ transition: 0.5s all;
+}
+
+.navbar-nav ul li a:not(.active):focus:before,
+.navbar-nav ul li a:not(.active):hover:before {
+ color: black;
+ border-radius: 10px;
+ }
+
+.nav-item .nav-link:hover {
+ color: black;
+ background-color: white;
+ border-radius: 10px;
+ transition: 0.3s all;
+}
+
+.logout-nav {
+ padding: 0% !important;
+}
+
+@media (min-width:1200px) {
+    .navbar-nav ul li a:not(.active):before {
+        content: "";
+        color: black;
+        border-radius: 10px;
+        transition: 0.5s all;
+       }
+}

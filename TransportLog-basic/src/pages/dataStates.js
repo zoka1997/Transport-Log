@@ -1,0 +1,149 @@
+
+export const states = [{
+  ID: 1,
+  Name: 'Rusija',
+}, {
+  ID: 2,
+  Name: 'Ukrajina',
+}, {
+  ID: 3,
+  Name: 'Francuska',
+}, {
+  ID: 4,
+  Name: 'Spanija',
+}, {
+  ID: 5,
+  Name: 'Svedska',
+}, {
+  ID: 6,
+  Name: 'Norveska',
+}, {
+  ID: 7,
+  Name: 'Njemacka',
+}, {
+  ID: 8,
+  Name: 'Finska',
+}, {
+  ID: 9,
+  Name: 'Poljska',
+}, {
+  ID: 10,
+  Name: 'Italija',
+}, {
+  ID: 11,
+  Name: 'Engleska',
+}, {
+  ID: 12,
+  Name: 'Rumunija',
+}, {
+  ID: 13,
+  Name: 'Bjelorusija',
+}, {
+  ID: 14,
+  Name: 'Kazahstan',
+}, {
+  ID: 15,
+  Name: 'Grcka',
+}, {
+  ID: 16,
+  Name: 'Bugarska',
+}, {
+  ID: 17,
+  Name: 'Island',
+}, {
+  ID: 18,
+  Name: 'Madjarska',
+}, {
+  ID: 19,
+  Name: 'Portugal',
+}, {
+  ID: 20,
+  Name: 'Austrija',
+}, {
+  ID: 21,
+  Name: 'Ceska',
+}, {
+  ID: 22,
+  Name: 'Srbija',
+}, {
+  ID: 23,
+  Name: 'Irska',
+}, {
+  ID: 24,
+  Name: 'Litvanija',
+}, {
+  ID: 25,
+  Name: 'Latvija',
+}, {
+  ID: 26,
+  Name: 'Hrvatska',
+}, {
+  ID: 27,
+  Name: 'BiH',
+}, {
+  ID: 28,
+  Name: 'Slovacka',
+}, {
+  ID: 29,
+  Name: 'Estonija',
+}, {
+  ID: 30,
+  Name: 'Danska',
+}, {
+  ID: 31,
+  Name: 'Svicarska',
+}, {
+  ID: 32,
+  Name: 'Holandija',
+}, {
+  ID: 33,
+  Name: 'Moldavija',
+}, {
+  ID: 34,
+  Name: 'Belgija',
+}, {
+  ID: 35,
+  Name: 'Albanija',
+}, {
+  ID: 36,
+  Name: 'Makedonija',
+}, {
+  ID: 37,
+  Name: 'Turska',
+}, {
+  ID: 38,
+  Name: 'Slovenija',
+}, {
+  ID: 39,
+  Name: 'CrnaGora',
+}, {
+  ID: 40,
+  Name: 'Kipar',
+}, {
+  ID: 41,
+  Name: 'Azerbejdzan',
+}, {
+  ID: 42,
+  Name: 'Luksemburg',
+}, {
+  ID: 43,
+  Name: 'Gruzija',
+}, {
+  ID: 44,
+  Name: 'Andora',
+}, {
+  ID: 45,
+  Name: 'Malta',
+}, {
+  ID: 46,
+  Name: 'Lihtenstajn',
+}, {
+  ID: 47,
+  Name: 'SanMarino',
+}, {
+  ID: 48,
+  Name: 'Monako',
+}, {
+  ID: 49,
+  Name: 'Vatikan',
+}];
